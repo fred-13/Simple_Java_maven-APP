@@ -11,5 +11,5 @@ RUN mvn clean package
 #
 FROM openjdk:11-jre-slim
 WORKDIR /usr/src/app
-COPY --from=build /usr/src/app/target/my-app-1.0-SNAPSHOT.jar ./app.jar
+COPY --from=build /usr/src/app/target/my-app-v0.0.1.jar ./app.jar
 CMD ["java","-jar", "./app.jar"]

@@ -1,0 +1,42 @@
+04-Dec-2022 08:38:13.567 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.82
+04-Dec-2022 08:38:13.578 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 8 2022 21:26:07 UTC
+04-Dec-2022 08:38:13.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.82.0
+04-Dec-2022 08:38:13.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+04-Dec-2022 08:38:13.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.15.0-56-generic
+04-Dec-2022 08:38:13.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2022 08:38:13.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /opt/java/openjdk
+04-Dec-2022 08:38:13.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.16.1+9-LTS
+04-Dec-2022 08:38:13.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+04-Dec-2022 08:38:13.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /opt/teamcity
+04-Dec-2022 08:38:13.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /opt/teamcity
+04-Dec-2022 08:38:13.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=jdk.management/com.sun.management.internal=ALL-UNNAMED
+04-Dec-2022 08:38:13.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:+IgnoreUnrecognizedVMOptions
+04-Dec-2022 08:38:13.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2022 08:38:13.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2022 08:38:13.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2022 08:38:13.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2022 08:38:13.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2022 08:38:13.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/opt/teamcity/conf/logging.properties
+04-Dec-2022 08:38:13.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2022 08:38:13.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Dec-2022 08:38:13.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Dec-2022 08:38:13.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Dec-2022 08:38:13.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx2g
+04-Dec-2022 08:38:13.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:ReservedCodeCacheSize=350m
+04-Dec-2022 08:38:13.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dteamcity.configuration.path=../conf/teamcity-startup.properties
+04-Dec-2022 08:38:13.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dlog4j2.configurationFile=file:/opt/teamcity/bin/../conf/teamcity-server-log4j.xml
+04-Dec-2022 08:38:13.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dteamcity_logs=/opt/teamcity/bin/../logs
+04-Dec-2022 08:38:13.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+04-Dec-2022 08:38:13.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Dec-2022 08:38:13.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/opt/teamcity
+04-Dec-2022 08:38:13.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/opt/teamcity
+04-Dec-2022 08:38:13.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/opt/teamcity/temp
+04-Dec-2022 08:38:13.592 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+04-Dec-2022 08:38:13.709 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8111"]
+04-Dec-2022 08:38:13.783 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1268 ms
+04-Dec-2022 08:38:13.887 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2022 08:38:13.888 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.82]
+04-Dec-2022 08:38:13.918 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/opt/teamcity/webapps/ROOT]
+04-Dec-2022 08:38:26.470 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/opt/teamcity/webapps/ROOT] has finished in [12,553] ms
+04-Dec-2022 08:38:26.478 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8111"]
+04-Dec-2022 08:38:26.623 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 12839 ms

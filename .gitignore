@@ -2,3 +2,4 @@ buildserver_pgdata/*
 data_dir/*
 nexus-data/*
 teamcity-server-logs/*
+!data_dir/config/database.properties

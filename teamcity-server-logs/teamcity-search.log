@@ -1,6 +1,0 @@
-[2022-12-03 13:37:16,890]   WARN [Build Indexer (metadata) (1/2)] - de.build.index.BuildPTRIndexer [metadata] - Added/removed 0/0 builds
-[2022-12-03 13:37:17,287]   WARN [d Indexer (Local search) (1/2)] - de.build.index.BuildPTRIndexer [Local search] - Added/removed 9/0 builds
-[2022-12-03 14:54:34,956]   WARN [Build Indexer (metadata) (1/2)] - de.build.index.BuildPTRIndexer [metadata] - Added/removed 0/0 builds
-[2022-12-03 14:54:35,694]   WARN [d Indexer (Local search) (1/2)] - de.build.index.BuildPTRIndexer [Local search] - Added/removed 0/0 builds
-[2022-12-04 08:39:23,499]   WARN [Build Indexer (metadata) (1/2)] - de.build.index.BuildPTRIndexer [metadata] - Added/removed 0/0 builds
-[2022-12-04 08:39:24,192]   WARN [d Indexer (Local search) (1/2)] - de.build.index.BuildPTRIndexer [Local search] - Added/removed 0/0 builds
